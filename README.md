@@ -23,9 +23,15 @@ python, pandas, project, numpy, matplotlib, sklearn, seaborn, machine learning, 
 
 #### Methods Used:
 Data Analysis and Visualization
+</br>
 Naive Bayes Classifier
+</br>
 Knn Model
+</br>
 Logistic Regression
+</br>
 Multi Layer Perceptron (ANN)
+</br>
 Adaptive Boosting
+</br>
 Support Vectors Machine Model (SVM)
