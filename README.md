@@ -17,9 +17,11 @@ python, pandas, project, numpy, matplotlib, sklearn, seaborn, machine learning, 
 </br>
 
 #### By Rotem Fallek
+[LinkedIn](https://www.linkedin.com/in/rotem-fallek/)
+##
 </br>
 
-#### Methods Used
+#### Methods Used:
 Data Analysis and Visualization
 Naive Bayes Classifier
 Knn Model
